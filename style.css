@@ -1,0 +1,18 @@
+body{
+    background-color: yellowgreen;
+    color: blue;
+}
+.heading{
+    width:85%;
+    font-size: 40px;
+    background-color: yellow;
+}
+.objects, #identified_object, #confidence_level{
+    color: violet;
+    font-size: 30px;
+}
+#camera{
+     width: 30%;
+     height: 40%;
+     border:3px dashed orangered;
+}
